@@ -35,7 +35,7 @@ defmodule Relexe.MixProject do
 
   defp deps do
     [
-      {:burrito, github: "burrito-elixir/burrito"},
+      {:burrito, github: "simonmcconnell/burrito"},
       {:ex_doc, "~> 0.28", only: :dev, runtime: false}
     ]
   end
